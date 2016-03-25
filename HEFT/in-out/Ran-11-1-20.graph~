@@ -1,0 +1,39 @@
+Hyperperiod 250
+No_of_Tasks 1
+No_of_Processor 3
+# Task Graph 1 begins
+t_id 0
+t_rtime 0
+t_period 250
+t_dline 0
+t_nst 11
+st1 45 54 33
+st2 12 33 40
+st3 48 24 47
+st4 28 46 26
+st5 13 20 41
+st6 29 51 20
+st7 47 22 34
+st8 20 48 51
+st9 39 38 46
+st10 50 47 30
+st11 48 53 45
+Link_from 0 1 47
+Link_from 1 2 39
+Link_from 1 3 47
+Link_from 1 4 35
+Link_from 1 5 37
+Link_from 3 6 46
+Link_from 2 7 39
+Link_from 7 8 44
+Link_from 7 9 47
+Link_from 2 10 28
+task_end -1
+E_P0 15.0 104.0
+E_P1 14.0 75.0
+E_P2 26.0 47.0
+E_PP01 0 1 40.0 40.0
+E_PP02 0 2 40.0 40.0
+E_PP12 1 2 40.0 40.0
+Energy-End -1
+

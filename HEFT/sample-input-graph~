@@ -1,0 +1,17 @@
+No_processors	3
+no_of_tasks	6
+st0	1  4  1
+st1	10 1  10
+st2	10 1  10
+st3	5  5  5
+st4	4  4  4
+st5	1  5  1
+links1	0 1 1
+links2	0 2 7
+links3	0 3 5
+links4	0 4 5
+links5	1 5 7
+links6	2 5 2
+links7	3 5 5
+links8	4 5 5
+task_end	-1
